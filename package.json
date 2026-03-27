@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "npx serve silene-clone -l 3000",
-    "start": "npx serve silene-clone -l 3000"
+    "dev": "serve silene-clone -l 3000",
+    "start": "serve silene-clone -l 3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
   }
 }
