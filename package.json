@@ -1,0 +1,9 @@
+{
+  "name": "silene-systems",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve silene-clone -l 3000",
+    "start": "npx serve silene-clone -l 3000"
+  }
+}
